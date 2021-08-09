@@ -1,0 +1,55 @@
+/*****************************Previous***************************/
+
+body {
+  background: #e74c3c;
+  color: rgb(148, 16, 180);
+  
+}
+#form {
+  display: flex;
+  
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  
+}  
+.container {
+  margin: 5px 5px;
+  
+  border: 1px solid whitesmoke;
+  border-radius: 40px;
+  padding: 7rem;
+  padding-top: -7rem;
+  background: #9b59b6;
+}
+.form .text {
+  display: block;
+  width: 50%;
+  justify-content: center;
+  border: 2px solid royalblue;
+  border-radius: 5px;
+
+}
+.form .text:hover {
+  border: 1px solid rgb(202, 71, 19);
+}
+h1 {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  
+}
+.btn {
+  display: inline-block;
+  color: azure;
+  background: cadetblue;
+  border: 1px solid red;
+  width: 50%;
+  border-radius: 100%;
+  
+}
+.form-content{
+  /* font-size: 12px; */
+  margin-left: 20rem;
+  margin-right: 7rem;
+}
+
